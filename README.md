@@ -37,7 +37,7 @@ Enhance your online security effortlessly with QuickSafe, an open-source passwor
 
 ### Installation
 
-No installation is required. Visit the [QuickSafe Password Generator](https://yashgawande546.github.io/quick-safe/) website to generate passwords.
+No installation is required. Visit the [QuickSafe Password Generator](https://github.com/yashgawande546/Quick-Safe) website to generate passwords.
 
 ## Usage
 
