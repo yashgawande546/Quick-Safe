@@ -2,7 +2,7 @@
 
 Generate strong and secure passwords with QuickSafe Pass, an open-source password generator. Protect your accounts with diverse character sets.
 
-![QuickSafe Logo](favicon.ico)
+![QuickSafe Logo](icons/favicon.ico)
 
 ## Table of Contents
 
