@@ -37,11 +37,11 @@ Enhance your online security effortlessly with QuickSafe, an open-source passwor
 
 ### Installation
 
-No installation is required. Visit the [QuickSafe Password Generator](https://github.com/yashgawande546/Quick-Safe) website to generate passwords.
+No installation is required. Visit the [QuickSafe Password Generator](https://yashgawande546.github.io/Quick-Safe/) website to generate passwords.
 
 ## Usage
 
-1. Visit the [QuickSafe Password Generator](https://yashgawande546.github.io/quick-safe/) website.
+1. Visit the [QuickSafe Password Generator](https://yashgawande546.github.io/Quick-Safe/) website.
 2. Customize your password preferences.
 3. Click on the "Generate Password" button.
 4. Copy the generated password to use.
@@ -54,7 +54,7 @@ No, the passwords aren't created on our servers. They are created locally on you
 
 ### Is this an open-source project?
 
-Yes, QuickSafe is an open-source project. You can find the source code on our [GitHub repository](https://github.com/yourusername/quick-safe).
+Yes, QuickSafe is an open-source project. You can find the source code on our [GitHub repository](https://github.com/yashgawande546/Quick-Safe/).
 
 ### Is the password generator free to use?
 
@@ -64,13 +64,9 @@ Absolutely! QuickSafe is completely free to use, and you can generate strong pas
 
 Yes, the password generator is designed to be safe and secure. Your passwords are generated locally, ensuring your privacy and security.
 
-## Contributing
-
-We welcome contributions from the community. If you would like to contribute to QuickSafe, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://github.com/yashgawande546/Quick-Safe/blob/main/LICENSE) - see the [LICENSE.md](https://github.com/yashgawande546/Quick-Safe/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
